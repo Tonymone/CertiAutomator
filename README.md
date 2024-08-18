@@ -126,6 +126,3 @@ For any inquiries or issues, please contact [tonymone1234@gmailcom](mailto:tonym
 ---
 
 **Disclaimer**: This project was developed for educational purposes.
-```
-
-Make sure to customize any placeholders like `yourusername` and `your-email@example.com` before using it on GitHub.

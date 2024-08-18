@@ -36,11 +36,10 @@ cd CertiAutomator
 
 ### Backend Setup
 
-1. Create a virtual environment:
+1. Navigate to the `backend` directory:
 
    ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   cd backend
    ```
 
 2. Install the required Python packages:
@@ -52,7 +51,7 @@ cd CertiAutomator
 3. Run the Flask server:
 
    ```bash
-   python backend/app.py
+   python app.py
    ```
 
 ### Frontend Setup

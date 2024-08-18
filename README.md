@@ -121,7 +121,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any inquiries or issues, please contact `[tonymone1234@gmail.com](mailto:tonymone1234@gmail.com)` or `shivaji.ware23@spit.ac.in(mailto:shivaji.ware23@spit.ac.in)`.
+For any inquiries or issues, please contact [`tonymone1234@gmail.com`](mailto:tonymone1234@gmail.com) or [`shivaji.ware23@spit.ac.in`](mailto:shivaji.ware23@spit.ac.in).
 
 ---
 
